@@ -90,6 +90,8 @@ Eerder gedeelde bestanden, los opgeslagen exports en apparaatback-ups verdwijnen
 
 ## Privacy en ondersteuning
 
-Lees de [privacyverklaring](PRIVACY.md) voor informatie over opslag, locatiegebruik en externe diensten.
+Railframe haalt spoor- en kaartgegevens op om je locatie te bepalen en je foto's van passende labels te voorzien. Die gegevens worden ook gebruikt voor de kaartweergave en objectmeldingen. Je foto's, opmerkingen en projectbestanden blijven lokaal op je apparaat en worden niet automatisch naar de maker of een centrale server geüpload. Je deelt deze bestanden alleen wanneer je zelf een foto of project deelt.
 
-Ondersteuning: **[VUL IN: support-e-mailadres of supportpagina]**. Vermeld bij een probleem de appversie, je iOS-versie en de stappen waarbij het misgaat. Deel alleen foto's of projectgegevens die nodig zijn om het probleem te onderzoeken.
+Bij het ophalen van gegevens ontvangen externe diensten wel de benodigde netwerk- en aanvraaggegevens, zoals je IP-adres en het opgevraagde gebied. Daarnaast kan de app een locatiesamenvatting naar je gekoppelde Apple Watch sturen. Apparaatback-ups hangen af van je eigen instellingen. Lees de [privacyverklaring](PRIVACY.md) voor de details.
+
+Railframe wordt zelfstandig ontwikkeld en aangeboden als hobbyproject. Er is geen helpdesk of mogelijkheid om contact op te nemen voor ondersteuning. Gebruik bij problemen de uitleg in deze handleiding en de tabel hierboven.
